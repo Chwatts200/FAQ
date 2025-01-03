@@ -1,0 +1,30 @@
+[
+  {
+    "linkType" : "none",
+    "sortOrder" : 1,
+    "level" : 1,
+    "question" : "What can I expect at Totally Rad?",
+    "answer" : "Totally Rad Vintage Fest is a curated vintage event with vintage vendors, activities and more! Feel the nostalgia as you shop from vintage vendors, challenge a friend at the free-play vintage arcade, strike a pose at the throwback photo ops or revel at relics of the past at the Rad Rewind Museum. Our team is constantly dreaming up and building new activations for the event. You never know what new will be at Totally Rad. "
+  },
+  {
+    "linkType" : "none",
+    "answer" : "Our totally radical vendors specialize in iconic clothing and accessories from the 80s, 90s, and Y2K eras, while also offering a diverse selection of records, toys, home goods, and more to complete your ultimate nostalgic shopping experience! ",
+    "level" : 1,
+    "question" : "What products can I expect inside Totally Rad?",
+    "sortOrder" : 2
+  },
+  {
+    "sortOrder" : 3,
+    "answer" : "All vendors accept cash, some take cards and almost all accept mobile payment systems like Paypal, Venmo or Cash App.",
+    "level" : 1,
+    "question" : "What price ranges can I expect inside the event?",
+    "linkType" : "none"
+  },
+  {
+    "sortOrder" : 4,
+    "answer" : "For GA Attendees entry starts at 10 am. This is typically our most busy time inside the event. For GA attendees looking for a more relaxed atmosphere, we recommend coming after 1pm.",
+    "linkType" : "none",
+    "question" : "What time should I plan to be at the event?",
+    "level" : 1
+  }
+]
